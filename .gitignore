@@ -1,0 +1,20 @@
+# C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.pdb
+*.ilk
+
+# Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDEs
+.vscode/
+.idea/
